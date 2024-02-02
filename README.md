@@ -12,6 +12,8 @@ I am interested in cybersecurity, artificial intelligence, and coding some simpl
 * 🧠  I'm learning cybersecurity, artificial intelligence
 * 🤝  I'm open to collaborating on Interesting projects in space, artificial intelligence, or projects that contribute to solving problems
 
+![snake gif](https://github.com/Danyah0-0/Danyah0-0/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--- 👋 Hi, I’m @Danyah0-0
 - 👀 I’m interested in Artificial Intelligence and CyberSecurity and coding some games
