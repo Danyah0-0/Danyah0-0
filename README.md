@@ -3,11 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 I'm computer science student
-
-![giphy (4)](https://github.com/Danyah0-0/Danyah0-0/assets/155690742/d8742a36-74c5-48b6-82be-33d5807d972f)
-
-
-
 ----------------------------
 
 I am interested in cybersecurity, artificial intelligence, and coding some simple games, and I am still learning and progressing in these fields
