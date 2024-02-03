@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm computer science student
 
-![giphy](https://github.com/Danyah0-0/Danyah0-0/assets/155690742/c3171816-068a-4bed-ae2c-2cc7605efacf)
+![giphy (4)](https://github.com/Danyah0-0/Danyah0-0/assets/155690742/d8742a36-74c5-48b6-82be-33d5807d972f)
+
 
 
 ----------------------------
